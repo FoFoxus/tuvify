@@ -35,4 +35,24 @@ Live-Demo bald verfügbar unter: `https://tuvify.vercel.app`
 
 ## 🛠 In Arbeit
 
--
+- [ ] Fahrzeugdatenbank mit API-Anbindung
+- [ ] Filter- & Vergleichsfunktionen
+- [ ] User-Bewertungen & Hinweise pro Teil
+- [ ] TÜV-Prüfer-Netzwerk / Empfehlungen
+- [ ] Mobile App (React Native)
+
+---
+
+## 🤝 Mithelfen oder Supporten
+
+TÜVify ist ein Community-Projekt. Du willst helfen oder unterstützen?
+
+- Issues & Ideen: [GitHub Issues](https://github.com/FoFoxus/tuvify/issues)
+- Spenden : PayPal doegoerdg@gmx.de
+- Kontakt: DoeGoer@gmx.de
+
+---
+
+## © 2025 Domenik Görner
+
+---
